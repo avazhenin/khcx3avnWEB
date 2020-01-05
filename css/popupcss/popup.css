@@ -1,0 +1,10 @@
+#popup {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -290px;
+    margin-top: -190px;
+    display: none;
+    z-index: 1;
+    width: 500px;
+}

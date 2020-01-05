@@ -1,0 +1,21 @@
+.myFeedbackStyle {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+}
+
+.myFeedbackStyle.left {
+    text-align: left;
+    display: inline;
+    /*position: absolute;*/
+}
+
+.myFeedbackStyle.right {
+    display: inline;
+    text-align: right;
+    /*position: absolute;*/
+}
+
+div{
+    border: 1px solid black;
+}
